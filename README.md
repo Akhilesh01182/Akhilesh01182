@@ -1,19 +1,20 @@
-<!-- WAVING ANIMATED HEADER -->
+<!-- ANIMATED HEADER WITH WAVING EFFECT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akhilesh%20Dhuriya&animation=fadeIn&fontSize=70&fontAlignY=40&desc=B.Tech%20AI%20%26%20ML%20%7C%20Software%20Engineer&descSize=20&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akhilesh%20Dhuriya&fontSize=60&animation=fadeIn&fontAlignY=35&desc=B.Tech%20(AI%20%26%20ML)%20Graduate%20%7C%20Software%20Engineer&descSize=18&descAlignY=55" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Intelligent+Solutions;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;Welcome+to+my+GitHub+Profile;Recent+B.Tech+AI%2FML+Graduate;Full-Stack+Developer" alt="Typing Animation" />
 </p>
 
-<!-- CONTACT & METRICS -->
+<!-- CONTACT BADGES -->
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-akakhilesh028@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakhilesh028@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Akhilesh_Dhuriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-dhuriya)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Akhilesh01182-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh01182)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Akhilesh_Dhuriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-dhuriya)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-Akhilesh01182-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh01182)
+[![Phone](https://img.shields.io/badge/📱_Phone-%2B91-73989-18612-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+917398918612)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhilesh01182&color=blueviolet&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Akhilesh01182?color=green&label=Followers&style=flat-square)
@@ -24,7 +25,7 @@
 ---
 
 ## 🎯 Career Objective
-Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with hands-on experience in full-stack development. Seeking an entry-level software engineering role to contribute to impactful projects, apply technical skills in JavaScript, Python, and the MERN stack, and grow within a collaborative team environment.
+Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with hands-on experience in full-stack development. Seeking an entry-level software engineering role where I can contribute to real-world projects, apply my technical skills in JavaScript, Python, and the MERN stack, and grow professionally in a collaborative team environment.
 
 ---
 
@@ -35,9 +36,9 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 | **Programming Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
 | **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
 | **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
-**Concepts:** Data Structures & Algorithms • OOPs • REST APIs • CRUD Operations • Machine Learning
+**Core Concepts:** Data Structures & Algorithms • OOPs • REST APIs • CRUD Operations • Machine Learning
 
 ---
 
@@ -56,7 +57,7 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh01182&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
 
-<!-- Snake Game -->
+<!-- Snake Game Animation -->
 <img src="https://raw.githubusercontent.com/Akhilesh01182/Akhilesh01182/output/github-contribution-grid-snake.svg" width="49%" alt="Snake Game" />
 
 </div>
@@ -66,31 +67,32 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 ## 📚 Education
 | Degree | Institution | Duration | Performance |
 |--------|-------------|----------|-------------|
-| **B.Tech – AI & ML** | BVC Engineering College, JNTU Kakinada | 2021–2025 | **CGPA: 7.31** |
+| **B.Tech – Artificial Intelligence & Machine Learning** | BVC Engineering College, JNTU Kakinada | 2021–2025 | **CGPA: 7.31** |
 | **Intermediate (MPC)** | R.P.J.S. Inter College, U.P. Board | 2019–2021 | **85.60%** |
-| **Secondary School (10th)** | S.A.B.S. H.S. School, U.P. Board | 2018–2019 | **81.16%** |
+| **Secondary School Certificate (10th)** | S.A.B.S. H.S. School, U.P. Board | 2018–2019 | **81.16%** |
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Projects & Experience
 
-### 🎓 **Online Inventory Management System**
+### 🎓 **Academic Project: Online Inventory Management System**
 **Tech Stack:** Python • MySQL • HTML • CSS • JavaScript  
-- Built a full-stack inventory system with real-time stock tracking, purchase/sales logging
-- Implemented secure admin panel for inventory control and user access management
-- Designed for small businesses to manage product records efficiently
+- Built a complete inventory management system supporting product records, purchase tracking, sales entries, and real-time stock updates
+- Implemented a secure admin panel to control inventory operations and manage user access
+- Designed specifically for small businesses to streamline inventory management processes
 
 ### 🤖 **AI & ML Internship** (240 Hours)
-**Blackbuck Engineers | APSCHE** (2025)  
-- Processed real-world datasets using Python for supervised machine learning tasks
+**Blackbuck Engineers | APSCHE (2025)**  
+- Processed and analyzed real-world datasets using Python for supervised machine learning tasks
 - Applied data cleaning, feature selection, and model evaluation techniques
-- Analyzed model performance using statistical metrics and visualization
+- Assessed model performance using appropriate metrics and visualization tools
 
 ### 🌐 **Full Stack Development Internship** (8 Weeks)
-**IIDT + Blackbuck Engineers** (2025)  
-- Developed full-stack web applications using MERN stack (MongoDB, Express.js, React.js, Node.js)
+**IIDT + Blackbuck Engineers (2025)**  
+- Developed and integrated full-stack web applications using the MERN stack
+- Created frontend components with React.js and styled with modern CSS frameworks
 - Connected frontend interfaces with backend APIs and database systems
-- Implemented CRUD operations and REST API endpoints for application functionality
+- Implemented REST APIs with Node.js and Express.js for application functionality
 
 ---
 
@@ -103,48 +105,100 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 
 ## 🌟 Strengths
 <p align="center">
-  <b>Solid Foundation</b> in programming & problem-solving • 
-  <b>Quick Learner</b> applying new technologies • 
-  <b>Team Player</b> experienced in collaborative development
+  <b>Solid Foundation</b> in programming fundamentals and logical problem-solving • 
+  <b>Quick Learner</b> with ability to apply new technologies in project-based environments • 
+  <b>Team Player</b> experienced in collaborative development using standard practices
 </p>
 
 ---
 
 ## 🗣️ Languages
 - **Hindi**: Native Proficiency
-- **English**: Professional Working Proficiency
+- **English**: Intermediate / Professional Working Proficiency
 
 ---
+---
+## 🗣️ Languages
+- **Hindi**: Native Proficiency
+- **English**: Intermediate / Professional Working Proficiency
 
-## 🛠️ Setup Instructions
-<!-- ANIMATED FOOTER --><div align="center">
-🔗 Connect With Me
-<p> <a href="mailto:akakhilesh028@gmail.com" title="Email"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail" alt="Email" /> </a> <a href="https://linkedin.com/in/akhilesh-dhuriya" title="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20Here-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/Akhilesh01182" title="GitHub"> <img src="https://img.shields.io/badge/GitHub-Explore%20Repos-181717?style=flat-square&logo=github" alt="GitHub" /> </a> </p><!-- GITHUB TROPHIES --><p> <img src="https://github-profile-trophy.vercel.app/?username=Akhilesh01182&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p><!-- LOCATION BADGE --><p> <img src="https://img.shields.io/badge/Location-Naugarh%2C%20Uttar%20Pradesh%2C%20India-0088CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /> </p></div><!-- WAVING FOOTER ANIMATION --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlignY=70" /> </p><p align="center"> <i>✨ Thanks for visiting! Always open to collaboration and new opportunities. ✨</i> </p> ```
+<!-- ==================== FOOTER SECTION ==================== -->
+<div align="center">
 
-### For Snake Game (GitHub Actions Required)
-1. Create `.github/workflows/snake.yml` in your repository
-2. Add this configuration:
+## 🔗 Let's Connect
+
+<p>
+  <a href="mailto:akakhilesh028@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-akakhilesh028@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/akhilesh-dhuriya">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn_Profile-Akhilesh_Dhuriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Akhilesh01182">
+    <img src="https://img.shields.io/badge/🐙_GitHub_Profile-Akhilesh01182-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhilesh01182&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<!-- Location Badge -->
+<p>
+  <img src="https://img.shields.io/badge/📍_Location-Naugarh,_Uttar_Pradesh,_India-0088CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/🎓_Graduate-B.Tech_AI_&_ML-6E40C9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education" />
+</p>
+
+<!-- Waving Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlignY=70" />
+</p>
+
+<p align="center">
+  <i>✨ Thanks for visiting my GitHub profile! Feel free to explore my repositories or connect for collaboration. ✨</i>
+</p>
+
+<p align="center">
+  <sub><b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=Akhilesh01182&color=blueviolet" alt="Profile Views Counter" /> • <b>Updated:</b> January 2026</sub>
+</p>
+
+</div>
+<!-- ==================== END FOOTER ==================== -->
+
+---
+## ⚙️ Setup Instructions
+
+### **For Snake Game Animation (REQUIRED SETUP)**
+1. Create a folder named `.github/workflows/` in your repository
+2. Create a file named `snake.yml` inside that folder
+3. Copy and paste this code into the file:
+
 ```yaml
-name: Generate Snake Animation
+name: Generate Snake Game
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:      # Allows manual triggering
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Akhilesh01182
           svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
