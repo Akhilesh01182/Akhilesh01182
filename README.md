@@ -161,6 +161,11 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 <!-- ==================== END FOOTER ==================== -->
 
 ---
+
+## 📈 GitHub Activity
+![Akhilesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh01182&theme=react-dark&hide_border=true&area=true)
+
+
 ## ⚙️ Setup Instructions
 
 ### **For Snake Game Animation (REQUIRED SETUP)**
