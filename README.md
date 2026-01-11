@@ -117,6 +117,9 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 ---
 
 ## 🛠️ Setup Instructions
+<!-- ANIMATED FOOTER --><div align="center">
+🔗 Connect With Me
+<p> <a href="mailto:akakhilesh028@gmail.com" title="Email"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail" alt="Email" /> </a> <a href="https://linkedin.com/in/akhilesh-dhuriya" title="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20Here-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/Akhilesh01182" title="GitHub"> <img src="https://img.shields.io/badge/GitHub-Explore%20Repos-181717?style=flat-square&logo=github" alt="GitHub" /> </a> </p><!-- GITHUB TROPHIES --><p> <img src="https://github-profile-trophy.vercel.app/?username=Akhilesh01182&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p><!-- LOCATION BADGE --><p> <img src="https://img.shields.io/badge/Location-Naugarh%2C%20Uttar%20Pradesh%2C%20India-0088CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /> </p></div><!-- WAVING FOOTER ANIMATION --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlignY=70" /> </p><p align="center"> <i>✨ Thanks for visiting! Always open to collaboration and new opportunities. ✨</i> </p> ```
 
 ### For Snake Game (GitHub Actions Required)
 1. Create `.github/workflows/snake.yml` in your repository
@@ -142,3 +145,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
