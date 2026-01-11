@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;AI+%26+ML+Graduate;Full-Stack+Developer;MERN+Stack+Specialist" alt="Typing Animation" />
 </p>
 
-
 <!-- CONTACT BADGES -->
 <div align="center">
 
