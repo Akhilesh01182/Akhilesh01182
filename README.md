@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER WITH WAVING EFFECT -->
+<!-- FIXED HEADER - AI & ML WILL NOW SHOW FULLY -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akhilesh%20Dhuriya&fontSize=60&animation=fadeIn&fontAlignY=35&desc=B.Tech%20(AI%20&amp;%20ML)%20Graduate%20%7C%20Software%20Engineer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akhilesh%20Dhuriya&fontSize=65&animation=fadeIn&fontAlignY=38&desc=B.Tech%20(AI%20%26amp%3B%20ML)%20Graduate%20%7C%20Software%20Engineer&descSize=20&descAlignY=73&stroke=000000&strokeWidth=2" />
 </p>
 
 <!-- TYPING ANIMATION -->
