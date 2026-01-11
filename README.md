@@ -1,226 +1,114 @@
+<!-- ==================== ENHANCED ANIMATED HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akhilesh%20Dhuriya&fontSize=60&animation=fadeIn&fontAlignY=35&desc=B.Tech%20(AI%20%26%20ML)%20Graduate%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontAlignY=40&animation=blinking&desc=Welcome%20to%20My%20Developer%20Hub&descAlignY=70&descSize=20" />
 </p>
 
+<!-- Advanced Multi-line Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hello+World!+👋;Welcome+to+my+GitHub+Profile!;Recent+B.Tech+AI%2FML+Graduate;Passionate+Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://typingsvg.canellariccardo.it/svg?lines=👋+Hello,+I'm+Akhilesh+Dhuriya;B.Tech+in+AI+%26+ML;Aspiring+Software+Engineer;Full-Stack+Developer&font=Fira+Code&color=36BCF7FF&center=true&width=500&height=60&size=24&pause=1500&repeat=false&randomSpeed=false" alt="Advanced Typing Animation" />
 </p>
 
+<!-- ==================== PROFESSIONAL CONTACT BADGES ==================== -->
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-akakhilesh028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakhilesh028@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh_Dhuriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-dhuriya)
-  [![GitHub](https://img.shields.io/badge/GitHub-Akhilesh01182-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh01182)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<!-- Primary Contact Row -->
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakhilesh028@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh%20Dhuriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-dhuriya)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-Profile-181717?style=for-the-badge&logo=github-mark&logoColor=white)](https://github.com/Akhilesh01182)
+
+<!-- Secondary Stats Row -->
+![Profile Views](https://komarev.com/ghpvc/?username=Akhilesh01182&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Akhilesh01182?color=green&label=Followers&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/Akhilesh01182?color=yellow&label=Profile%20Stars&style=flat-square)
+
+</div>
+
+<!-- ==================== RESPONSIVE HERO SECTION ==================== -->
+<!-- Using SVG foreignObject for true responsiveness and CSS [citation:2] -->
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=Hero+Section+Placeholder" width="100%" alt="Responsive Hero Banner" />
+  <sub><i>Tip: Replace with a custom SVG using <foreignObject> for advanced responsive design[citation:2].</i></sub>
 </div>
 
 ---
-
-## 🎯 Career Objective
-Recent B.Tech graduate in **Artificial Intelligence and Machine Learning** with a strong passion for software development. Seeking an entry-level software engineering role where I can contribute to impactful projects, apply my technical skills, and grow professionally within a collaborative team environment.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-### 📚 Core Concepts
-`Data Structures & Algorithms` `OOPs` `REST APIs` `CRUD Operations` `Machine Learning`
+### 🎯 **Career Vision**
+A detail-oriented **B.Tech graduate in AI & ML** with a strong foundation in full-stack development. Eager to contribute to innovative software solutions, tackle complex challenges, and grow within a collaborative engineering team.
 
 ---
+### 🛠️ **Core Technology Stack**
+<h4 align="center">Languages & Frameworks I Build With</h4>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilesh01182&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh01182&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh01182&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akhilesh01182/Akhilesh01182/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
-
----
-
-## 📚 Education
-
-| Degree | Institution | Duration | Performance |
-|--------|-------------|----------|-------------|
-| **B.Tech – Artificial Intelligence & Machine Learning** | BVC Engineering College, JNTU Kakinada | 2021–2025 | CGPA: 7.31 |
-| **Intermediate (MPC)** | R.P.J.S. Inter College, U.P. Board | 2019–2021 | 85.60% |
-| **Secondary School Certificate (10th)** | S.A.B.S. H.S. School, U.P. Board | 2018–2019 | 81.16% |
-
----
-
-## 💼 Projects & Experience
-
-### 🎓 Academic Project: **Online Inventory Management System**
-> **Tech Stack:** Python, MySQL, HTML, CSS, JavaScript
-- Built an inventory management system supporting product records, purchase tracking, sales entries, and real-time stock updates for small businesses.
-- Implemented a secure admin panel to control inventory operations and manage user access.
-
-### 🤖 **AI & ML Internship** (240 Hours)
-> **Blackbuck Engineers | APSCHE** (2025)
-- Processed and analyzed real-world datasets using Python to support supervised machine learning tasks.
-- Applied data cleaning, feature selection, and model evaluation techniques to assess model performance.
-
-### 🌐 **Full Stack Development Internship** (8 Weeks)
-> **IIDT + Blackbuck Engineers** (2025)
-- Developed and integrated full-stack web applications using the MERN stack, including frontend components, backend APIs, and database connectivity.
-- Connected frontend interfaces with backend APIs and databases to support application functionality.
-
----
-
-## 📜 Certifications
-- **Basics** – ICT Academy Learnathon (May 2024)
-- **Java MongoDB Programming** – Oracle Academy (November 2022)
-- **Java Fundamentals** – Oracle Academy (November 2022)
-
----
-
-## 🌟 Strengths
+<!-- Organized, clickable tech badges -->
 <p align="center">
-  <b>Solid Foundation</b> in programming fundamentals and logical problem-solving<br>
-  <b>Quick Learner</b> with proven ability to apply new technologies in project-based environments<br>
-  <b>Team Player</b> experienced in collaborative development using standard practices
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/React-18.2-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://nodejs.org" title="Node.js"><img src="https://img.shields.io/badge/Node.js-20.x-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-7.0-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"></a>
 </p>
 
 ---
-
-## 🗣️ Languages
-- **Hindi**: Native
-- **English**: Professional Working Proficiency
-
----
-
-## 📈 GitHub Activity
-![Akhilesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh01182&theme=react-dark&hide_border=true&area=true)
-
----
-
-## ⚙️ Setup Instructions
-1. **Copy the entire code** into your `README.md` file
-2. **For the snake game**, create `.github/workflows/generate-snake.yml`:
-```yaml
-name: Generate Snake Game
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Akhilesh01182
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-<!-- ==================== FOOTER START ==================== -->
+### 📊 **Dynamic GitHub Analytics**
+<!-- Stats with a more refined theme -->
 <div align="center">
-
-## 🔗 Connect With Me
-
-<p>
-  <a href="mailto:akakhilesh028@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akakhilesh028@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/akhilesh-dhuriya">
-    <img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20Dhuriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  
+  <a href="https://github.com/Akhilesh01182">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Akhilesh01182&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0d1117&hide_title=false" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Akhilesh01182">
-    <img src="https://img.shields.io/badge/GitHub-Akhilesh01182-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh01182&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117&hide=html,css" alt="Top Languages" />
   </a>
-  <a href="https://leetcode.com/u/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
-## 📊 GitHub Metrics
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Akhilesh01182&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Akhilesh01182?color=green&style=for-the-badge&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Akhilesh01182?color=yellow&style=for-the-badge&logo=github" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/last-commit/Akhilesh01182/Akhilesh01182?color=blue&style=for-the-badge&logo=github" alt="Last Commit" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhilesh01182&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-## 🌟 Random Developer Quote
-
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
-## 📍 Location & Time
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Naugarh%2C%20Uttar%20Pradesh%2C%20India-0088CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5:30)-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" alt="Timezone" />
-</p>
-
-## 💖 Support
-
-<p>
-  If you like my projects, consider giving them a star! ⭐
-  <br>
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
-
 </div>
 
-<!-- Waving Footer Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlignY=70" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh01182&theme=dark&hide_border=true&background=0d1117&stroke=1F6FEB&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
+  <!-- Placeholder for a real-time metric (e.g., stars) [citation:1] -->
+  <img src="https://img.shields.io/badge/Dynamic/Realtime%20Metrics-Coming%20Soon-6E40C9?style=for-the-badge&logo=github" alt="Realtime Metric Placeholder" width="49%"/>
+</div>
+
+<!-- The Animated Snake Game -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Akhilesh01182/Akhilesh01182/output/github-contribution-grid-snake.svg" alt="Snake Game eating contributions" />
+</div>
+
+---
+<!-- ==================== RESPONSIVE, THEMED PROJECT SHOWCASE ==================== -->
+<!-- Example using <picture> for light/dark mode images [citation:2] -->
+### 🚀 **Featured Project**
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/600x300/0d1117/58a6ff?text=Online+Inventory+System+Dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/600x300/ffffff/0366d6?text=Online+Inventory+System+Light">
+  <img src="https://via.placeholder.com/600x300/0d1117/58a6ff?text=Online+Inventory+System" alt="Project Screenshot" width="80%"/>
+</picture>
+</div>
+
+**🏷️ Online Inventory Management System**  
+**⚙️ Tech Stack:** Python | MySQL | HTML/CSS | JavaScript  
+**📋 Description:** A full-stack system for small businesses featuring real-time stock tracking, purchase/sales logging, and a secure admin panel.  
+**🔗 Explore:** [View Code](https://github.com/Akhilesh01182) | [Live Demo](#)
+
+---
+<!-- ==================== ANIMATED FOOTER ==================== -->
+<div align="center">
+
+## 🌐 **Let's Connect & Collaborate**
+<p>
+  I'm always open to discussing technology, new opportunities, or contributing to interesting projects.
 </p>
 
-<p align="center">
-  <i>✨ Thanks for visiting my profile! Have a great day! ✨</i>
-  <br>
-  <sub>Last Updated: <b>🚀</b></sub>
+<!-- Wave animation for footer [citation:4] -->
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
+  <path d="M0,50 Q300,100 600,50 T1200,50 L1200,100 L0,100 Z" fill="#0d1117">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0,50 Q300,0 600,50 T1200,50 L1200,100 L0,100 Z; M0,50 Q300,100 600,50 T1200,50 L1200,100 L0,100 Z; M0,50 Q300,0 600,50 T1200,50 L1200,100 L0,100 Z"/>
+  </path>
+</svg>
+
+<p>
+  <i>Thanks for visiting! Feel free to explore my repositories or get in touch.</i> 💼
 </p>
-<!-- ==================== FOOTER END ==================== -->
+<p>
+  <sub>✨ Profile crafted with attention to detail. Last updated: January 2026 ✨</sub>
+</p>
+</div>
