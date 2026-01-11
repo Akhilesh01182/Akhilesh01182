@@ -1,6 +1,6 @@
 <!-- =================== HEADER =================== -->
 <h1 align="center">Hi 👋, I'm Akhilesh Dhuriya</h1>
-<h3 align="center">B.Tech (AI & ML) Graduate | Full-Stack Developer | MERN Enthusiast</h3>
+<h3 align="center">B.Tech (AI & ML) Graduate | Full-Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/akhilesh-dhuriya">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=0F62FE&width=700&lines=Hi,+I'm+Akhilesh+Dhuriya;B.Tech+AI+%26+ML+Graduate;Full-Stack+Developer;Building+Interactive+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=0F62FE&width=700&lines=Hi,+I'm+Akhilesh Dhuriya;Full-Stack Developer;Building+Interactive+Web+Apps;MERN+Stack Enthusiast"/>
 </p>
 
 ---
@@ -24,41 +24,41 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200"/>
 </p>
-- B.Tech (AI & ML) graduate passionate about **full-stack web development**.  
-- Experienced in **React.js, Node.js, MongoDB, and MySQL**.  
-- Skilled in building **interactive, scalable, and responsive applications**.  
-- Always learning **modern web technologies** and improving coding skills.  
+- Full-Stack developer passionate about building **responsive, scalable web applications**.  
+- Experienced in **React.js, Node.js, MongoDB, MySQL, and Tailwind CSS**.  
+- Skilled in **frontend UI, backend API development, and database integration**.  
+- Continuously learning modern web technologies to build **professional-grade projects**.  
 
 ---
 
 ## 💻 Technical Skills
 
+### **Languages & Frameworks**
 <p align="center">
-<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
+### **Frontend & UI**
 <p align="center">
-<!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### **Backend & Databases**
 <p align="center">
-<!-- Backend & DB -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+### **Tools & Platforms**
 <p align="center">
-<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -68,22 +68,26 @@
 
 ## 🚀 Featured Projects
 
-### **1. Online Inventory Management System**
-![Inventory Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-- **Tech Stack:** Python, MySQL, HTML, CSS, JavaScript  
-- **Features:** Admin panel, stock tracking, sales & purchase records, secure access  
-- [View Code](https://github.com/Akhilesh01182/online-inventory-system)
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px;">
+  
+**Online Inventory Management System**  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>  
+- Python, MySQL, HTML, CSS, JS  
+- Admin panel, stock tracking, sales & purchase records  
+[View Code](https://github.com/Akhilesh01182/online-inventory-system)
 
-### **2. Portfolio Website**
-![Portfolio Demo](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
-- **Tech Stack:** React.js, Tailwind CSS  
-- **Features:** Multi-page responsive design, dark/light mode, animations  
-- [View Code](https://github.com/Akhilesh01182/portfolio-website) | [Live Demo](https://your-portfolio.netlify.app)
+**Portfolio Website**  
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="180"/>  
+- React.js, Tailwind CSS  
+- Multi-page responsive design, dark/light mode, animations  
+[View Code](https://github.com/Akhilesh01182/portfolio-website) | [Live Demo](https://your-portfolio.netlify.app)
 
-### **3. MERN Mini Projects**
-- **Tech Stack:** MongoDB, Express.js, React.js, Node.js  
-- Examples: Blog Platform, E-commerce Catalog, ToDo App  
-- [View Code](https://github.com/Akhilesh01182) *(replace with individual repos)*
+**MERN Mini Projects**  
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180"/>  
+- MongoDB, Express.js, React.js, Node.js  
+- Blog platform, E-commerce catalog, ToDo app  
+[View Code](https://github.com/Akhilesh01182)
+</div>
 
 ---
 
@@ -92,7 +96,7 @@
 - **Intermediate (MPC)** | R.P.J.S. Inter College, 85.60%  
 - **High School (10th)** | S.A.B.S. H.S. School, 81.16%  
 
-## 💼 Internships
+## 💼 Internship
 - **Full Stack Development Internship** – IIDT + Blackbuck Engineers | 8 Weeks  
 
 ---
