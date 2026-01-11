@@ -3,10 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akhilesh%20Dhuriya&fontSize=65&animation=fadeIn&fontAlignY=38&desc=B.Tech%20(AI%20%26amp%3B%20ML)%20Graduate%20%7C%20Software%20Engineer&descSize=20&descAlignY=73&stroke=000000&strokeWidth=2" />
 </p>
 
-<!-- TYPING ANIMATION -->
+
+<!-- ENHANCED TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;duration=3500&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hello+World!+👋;Welcome+to+my+GitHub+Profile;Recent+B.Tech+AI%2FML+Graduate;Full-Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;AI+%26+ML+Graduate;Full-Stack+Developer;MERN+Stack+Specialist" alt="Typing Animation" />
 </p>
+
 
 <!-- CONTACT BADGES -->
 <div align="center">
