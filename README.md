@@ -7,18 +7,15 @@
 </p>
 
 <div align="center">
-  
   [![Email](https://img.shields.io/badge/Email-akakhilesh028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakhilesh028@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh_Dhuriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-dhuriya)
   [![GitHub](https://img.shields.io/badge/GitHub-Akhilesh01182-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh01182)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](#)
-  
 </div>
 
 ---
 
 ## 🎯 Career Objective
-
 Recent B.Tech graduate in **Artificial Intelligence and Machine Learning** with a strong passion for software development. Seeking an entry-level software engineering role where I can contribute to impactful projects, apply my technical skills, and grow professionally within a collaborative team environment.
 
 ---
@@ -64,24 +61,17 @@ Recent B.Tech graduate in **Artificial Intelligence and Machine Learning** with 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilesh01182&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh01182&layout=compact&theme=radical" alt="Top Languages" />
-  
 </div>
 
 <div align="center">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh01182&theme=radical" alt="GitHub Streak" />
-  
 </div>
 
-<!-- Snake Game Animation (Requires GitHub Actions setup) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Akhilesh01182/Akhilesh01182/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
-
-*Note: To enable the snake game, create a `.github/workflows` folder and add a `generate-snake.yml` workflow file.*
 
 ---
 
@@ -99,26 +89,22 @@ Recent B.Tech graduate in **Artificial Intelligence and Machine Learning** with 
 
 ### 🎓 Academic Project: **Online Inventory Management System**
 > **Tech Stack:** Python, MySQL, HTML, CSS, JavaScript
-
 - Built an inventory management system supporting product records, purchase tracking, sales entries, and real-time stock updates for small businesses.
 - Implemented a secure admin panel to control inventory operations and manage user access.
 
 ### 🤖 **AI & ML Internship** (240 Hours)
 > **Blackbuck Engineers | APSCHE** (2025)
-
 - Processed and analyzed real-world datasets using Python to support supervised machine learning tasks.
 - Applied data cleaning, feature selection, and model evaluation techniques to assess model performance.
 
 ### 🌐 **Full Stack Development Internship** (8 Weeks)
 > **IIDT + Blackbuck Engineers** (2025)
-
 - Developed and integrated full-stack web applications using the MERN stack, including frontend components, backend APIs, and database connectivity.
 - Connected frontend interfaces with backend APIs and databases to support application functionality.
 
 ---
 
 ## 📜 Certifications
-
 - **Basics** – ICT Academy Learnathon (May 2024)
 - **Java MongoDB Programming** – Oracle Academy (November 2022)
 - **Java Fundamentals** – Oracle Academy (November 2022)
@@ -126,7 +112,6 @@ Recent B.Tech graduate in **Artificial Intelligence and Machine Learning** with 
 ---
 
 ## 🌟 Strengths
-
 <p align="center">
   <b>Solid Foundation</b> in programming fundamentals and logical problem-solving<br>
   <b>Quick Learner</b> with proven ability to apply new technologies in project-based environments<br>
@@ -136,34 +121,24 @@ Recent B.Tech graduate in **Artificial Intelligence and Machine Learning** with 
 ---
 
 ## 🗣️ Languages
-
 - **Hindi**: Native
 - **English**: Professional Working Proficiency
 
 ---
 
 ## 📈 GitHub Activity
-
 ![Akhilesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh01182&theme=react-dark&hide_border=true&area=true)
 
 ---
 
-<details>
-<summary><b>🎮 Snake Game Setup Instructions</b></summary>
-
-To enable the animated snake game that eats your contributions:
-1. Create a folder called `.github/workflows` in your repository
-2. Create a file named `generate-snake.yml` inside it
-3. Add the following content:
-
+## ⚙️ Setup Instructions
+1. **Copy the entire code** into your `README.md` file
+2. **For the snake game**, create `.github/workflows/generate-snake.yml`:
 ```yaml
 name: Generate Snake Game
-
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -179,5 +154,73 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-</details>
-<p align="center"> <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Akhilesh01182&color=blueviolet&style=flat-square" alt="Profile Views" /> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlignY=70" /> </p> ```
+
+<!-- ==================== FOOTER START ==================== -->
+<div align="center">
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="mailto:akakhilesh028@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akakhilesh028@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/akhilesh-dhuriya">
+    <img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20Dhuriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Akhilesh01182">
+    <img src="https://img.shields.io/badge/GitHub-Akhilesh01182-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+## 📊 GitHub Metrics
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Akhilesh01182&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Akhilesh01182?color=green&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Akhilesh01182?color=yellow&style=for-the-badge&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/Akhilesh01182/Akhilesh01182?color=blue&style=for-the-badge&logo=github" alt="Last Commit" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhilesh01182&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+## 🌟 Random Developer Quote
+
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
+
+## 📍 Location & Time
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Naugarh%2C%20Uttar%20Pradesh%2C%20India-0088CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5:30)-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" alt="Timezone" />
+</p>
+
+## 💖 Support
+
+<p>
+  If you like my projects, consider giving them a star! ⭐
+  <br>
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</p>
+
+</div>
+
+<!-- Waving Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlignY=70" />
+</p>
+
+<p align="center">
+  <i>✨ Thanks for visiting my profile! Have a great day! ✨</i>
+  <br>
+  <sub>Last Updated: <b>🚀</b></sub>
+</p>
+<!-- ==================== FOOTER END ==================== -->
