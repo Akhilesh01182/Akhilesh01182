@@ -106,7 +106,7 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 ## 🌟 Strengths
 <p align="center">
   <b>Solid Foundation</b> in programming fundamentals and logical problem-solving • 
-  <b>Quick Learner</b> with ability to apply new technologies in project-based environments • 
+  <b>Quick Learner</b> with ability to apply new technologies in project-based environments  • 
   <b>Team Player</b> experienced in collaborative development using standard practices
 </p>
 
