@@ -67,7 +67,7 @@ Recent **B.Tech graduate in Artificial Intelligence and Machine Learning** with 
 ## 📚 Education
 | Degree | Institution | Duration | Performance |
 |--------|-------------|----------|-------------|
-| **B.Tech – Artificial Intelligence &amp; Machine Learning** | BVC Engineering College, JNTU Kakinada | 2021–2025 | **CGPA: 7.31** |
+| **B.Tech – Artificial Intelligence &amp; Machine Learning** | BVC Engineering College, JNTU Kakinada | 2021–2025 | **CGPA: 7.36** |
 | **Intermediate (MPC)** | R.P.J.S. Inter College, U.P. Board | 2019–2021 | **85.60%** |
 | **Secondary School Certificate (10th)** | S.A.B.S. H.S. School, U.P. Board | 2018–2019 | **81.16%** |
 
